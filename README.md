@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm RB Tech 👋
 
-<!--
-**rb-tech-512/rb-tech-512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Software Developer | Web Development | Software Engineering**
 
-Here are some ideas to get you started:
+I build practical software solutions and web applications with a focus on clean, functional, and user-friendly experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+`Python` `HTML` `CSS` `JavaScript` `Git` `GitHub` `VS Code`
+
+## 🚀 What I Do
+
+- Web Development
+- Software Development
+- Automation & Practical Solutions
+- Building and improving digital products
+
+## 📌 Projects
+
+Check out my repositories to see the projects I've built and the code behind them.
+
+⭐️ **[rb-tech-512](https://github.com/rb-tech-512)**
